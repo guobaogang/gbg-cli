@@ -1,0 +1,23 @@
+{
+  "name": "gbg-cli",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gbg": "./bin/gbg"
+  },
+  "author": "guobaogang",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "figlet": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guobaogang/gbg-cli.git"
+  }
+}
