@@ -22,7 +22,6 @@
     "inquirer": "^7.3.3",
     "ora": "^5.0.0",
     "request": "^2.88.2",
-    "rimraf": "^3.0.2",
     "semver": "^7.3.2"
   },
   "repository": {
