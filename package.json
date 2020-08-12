@@ -1,6 +1,6 @@
 {
   "name": "gbg-cli",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,17 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
     "commander": "^6.0.0",
-    "figlet": "^1.5.0"
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3",
+    "ora": "^5.0.0",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "semver": "^7.3.2"
   },
   "repository": {
     "type": "git",
