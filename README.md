@@ -16,6 +16,7 @@ Options:
 
 Commands:
   init|i         初始化
+  list|l         显示模板列表
 ```
 
 ### install
